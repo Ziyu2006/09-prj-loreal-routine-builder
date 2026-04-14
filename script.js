@@ -30,7 +30,7 @@ Rules:
   }
 ];
 
-const WORKER_URL = "PASTE_YOUR_CLOUDFLARE_WORKER_URL_HERE";
+const WORKER_URL = "https://loralbot.jadedaydreaming022023.workers.dev/";
 
 /* ---------- Initial UI ---------- */
 productsContainer.innerHTML = `
